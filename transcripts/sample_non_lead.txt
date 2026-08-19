@@ -1,0 +1,13 @@
+[CUSTOMER]Hey, I’ve been looking into some automation tools. Man, manual testing is just...ugh, it’s so slow.
+[SALES_REP]Totally get that. A lot of teams are feeling the pinch with manual processes. What kinda tools are you using right now?
+[CUSTOMER]Pretty basic stuff. Like, we use a mix of Excel and some other lil' tools, but it’s a mess. It just doesn’t keep up with everything.
+[SALES_REP]Yeah, that can be super frustrating. Have you looked into TestMaster Suite? It's designed for automating those tedious bits.
+[CUSTOMER]I’ve heard of it but like, is it really worth the $5000 a month? That’s kinda steep for us.
+[SALES_REP]I get that, it’s def an investment upfront. But think about the time you’d save? Shorter testing cycles means faster delivery.
+[CUSTOMER]Yeah, but what about integrating it with our current systems? I mean, what if it just messes everything up?
+[SALES_REP]Great point. It's built to integrate with CI/CD tools, so it should fit right in with what you’ve got. But I can see the hesitation.
+[CUSTOMER]I dunno, actually we have so many tools already. The team’s been kinda hesitant to switch things up.
+[SALES_REP]I totally understand, change can be a lot.
+[CUSTOMER]Just feels like a huge overhead to onboard everyone. I don't think we can move forward with this right now.
+[SALES_REP]No problem at all. Let us know if anything changes in the future.
+[CUSTOMER]Sure, thanks. Bye.

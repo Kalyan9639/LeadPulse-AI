@@ -1,0 +1,8 @@
+scikit-learn==1.6.1
+ollama
+chromadb
+groq
+openpyxl
+python-dotenv
+pandas
+huggingface_hub
